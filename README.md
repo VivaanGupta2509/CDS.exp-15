@@ -126,4 +126,22 @@ int main()
 
 ## Outputs - 
 ### 1-
+<img width="600" alt="Screenshot 2024-10-21 at 9 31 23 AM" src="https://github.com/user-attachments/assets/62c4d456-cf27-47a0-a351-f3b716c7bd6f">
+
+### 2-
+<img width="700" alt="Screenshot 2024-10-21 at 9 31 39 AM" src="https://github.com/user-attachments/assets/5dbd0aec-a909-4ca1-bf26-507b0b44e52d">
+
+### 3-
+<img width="827" alt="Screenshot 2024-10-21 at 9 31 59 AM" src="https://github.com/user-attachments/assets/a87533d9-9f60-438f-8357-11eb9413172f">
+
+### 4-
+<img width="565" alt="Screenshot 2024-10-21 at 9 33 28 AM" src="https://github.com/user-attachments/assets/44195f6b-87b8-4279-9e6d-f06248404ee0">
+
+## Conclusion - 
+We effectively studied and implemented the idea of recursion in C++ in this experiment. Examples of recursion, which is the process by which a function calls itself to solve smaller sub-problems, included finding the factorial, creating Fibonacci sequences, and searching algorithms.
+By examining recursive functions, we discovered the following important realizations:
+
+- Simpleness of Expression: When a problem is inherently recursive, such as in the case of tree traversal and divide-and-conquer algorithms, recursive solutions frequently offer a clear and simple approach to solve it.
+- Base Case and Termination: In the absence of suitable ending circumstances, unbounded recursion and stack overflow result. This highlights the significance of having a well-defined base case.
+- Stack Depth and Limitations: We also discovered that recursive methods may not be suitable for solving some problems due to the possibility of stack overflow errors resulting from deep recursion
 
